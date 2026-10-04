@@ -7,7 +7,7 @@
 
 Third-year B.Tech student in Production and Industrial Engineering at IIT Delhi. I rebuild systems from first principles, then measure them against a baseline or a control until the numbers hold up.
 
-**[aadityakumawat.me](https://aadityakumawat.me)** &nbsp;&nbsp; [aaditya@aadityakumawat.me](mailto:aaditya@aadityakumawat.me) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/aaditya-kumawat-9588012b2/) &nbsp;&nbsp; [Codeforces](https://codeforces.com/profile/codeleon) (Candidate Master, peak 1938)
+**[aadityakumawat.me](https://aadityakumawat.me)** &nbsp;&nbsp; [aaditya@aadityakumawat.me](mailto:aaditya@aadityakumawat.me) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/aaditya-kumawat-9588012b2/) &nbsp;&nbsp; [Codeforces](https://codeforces.com/profile/codeleon) (Candidate Master, peak 1935)
 
 ### Selected work
 
